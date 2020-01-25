@@ -1,4 +1,4 @@
-#include "header/list.h"
+#include "list.h"
 
 void MakeList(List* L, int N)
 /* Membuat list dengan N buah data */
